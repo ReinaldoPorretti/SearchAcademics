@@ -1,0 +1,324 @@
+#body{
+    background-color:#16223a;
+}
+
+#cabecalho{
+    background-color:#16223a;
+    width:100%;
+    height:20%;
+
+}
+#imglogo{
+    width:140px;
+    height: 140px;
+    margin-left:3%;   
+    margin-top:-7.5%; 
+    
+
+
+}
+#titulo{
+    text-align:center;
+    color:#ffdd57;
+    font-family:Aero;
+    font-size:80px;
+    text-decoration: none;
+    padding:0px; 
+    margin-left:0%; 
+
+
+
+}
+
+
+#menu{
+    background-color:#ffdd57; 
+    width:100%;
+    height:8%;
+    position:relative;
+
+
+
+}
+#inicio{
+    color:#16223a;
+    font-family:Aero;
+    font-size:22px;   
+    margin-left:15%;
+    text-align:center;
+    padding:30px;
+    position:absolute;
+    margin-top:-15px; 
+
+
+
+}
+#suplemento{
+    color:#16223a;
+    font-family:Aero;
+    font-size:22px;  
+    padding:30px;
+    position:absolute;
+    margin-top:-15px; 
+    margin-left:32%;
+
+}
+#roupas{
+    color:#16223a;
+    font-family:Aero;
+    font-size:22px;  
+    padding:30px;
+    position:absolute;
+    margin-top:-15px; 
+    margin-left:55%;
+}
+#sobre{
+    color:#16223a;
+    font-family:Aero;
+    font-size:22px;
+    padding:30px;
+    position:absolute;
+    margin-top:-15px; 
+    margin-left:75%;
+}
+
+#menulateral{
+    background-color:#16223a;
+    width:100%;
+    height:74%;
+    margin-right:0%;
+    color:#ffdd57;
+    font-family: Arial;
+    text-align:center;
+    padding:30px;
+}
+
+body{
+    padding:0px;
+    margin:0px;
+    background-color:#16223a;
+}
+a{
+    text-decoration: none;   
+}
+a hover{
+    font-size:20px;
+}
+
+#plateral{
+    color:#ffdd57;
+    font-family:College;
+    font-size:80px;   
+    margin-top: 20px;
+}
+.titulo2{
+    color:#ffdd57; 
+    text-align: center;
+    font-size:80px;
+    width:100%;
+    background-color:#16223a;
+    font-family:Aero;
+}
+.exercicio{
+
+    color:#ffdd57;
+    width: 33.3%;
+    height:400px; 
+    text-align:center;
+    position:relative;
+    float: left;
+    font-size:200%;
+    background-color:#16223a;
+    padding:0px;
+    margin:0;
+
+}
+.exercicio2{
+    color:#ffdd57;
+    width: 33.3%;
+    height:400px; 
+    text-align:center;
+    position:relative;
+    float: left;
+    font-size:200%;
+    background-color:#16223a;
+    padding:0px;
+    margin-top:-5.5%; 
+    margin:0;
+}
+#imgtreinos{
+    border-radius:8%;
+}
+
+#carrossel{
+
+    margin: 0px;
+    background-color:#16223a;
+    width: 100%;
+}
+.carousel-inner{ 
+    padding:0px;
+    margin:0px;
+}
+#nomeexerc{
+    color:#ffdd57;
+    text-decoration: none;
+}
+#imgtreinos a hover {
+}
+
+footer{   
+    background-color:#FFDD57;
+    margin-top: 20%;
+
+}
+
+.titulolocalizacao{
+    color:#ffdd57; 
+    text-align: center;
+    font-size:80px;
+    width:100%;
+    background-color:#16223a;
+    font-family:Aero;
+    margin-top:30px; 
+}
+
+.localizacao{
+    color:#ffdd57;
+    width: 33.3%;
+    height:400px; 
+    text-align:center;
+    position:relative;
+    float: left;
+    font-size:200%;
+    background-color:#16223a;
+    padding:0px;
+    margin:0;
+}      
+
+.localizacao2{
+    color:#ffdd57;
+    width: 33.3%;
+    height:400px; 
+    text-align:center;
+    position:relative;
+    float: left;
+    font-size:200%;
+    background-color:#16223a;
+    padding:0px;
+    margin-top:-5.5%;
+    margin:0;
+}
+
+#imgl{
+    border-radius:8%;
+}
+#nomeloca{
+    color:#ffdd57;
+    text-decoration: none;
+
+}
+
+#ultimomenu{
+    background-color:#ffdd57;
+    margin:0;
+
+}
+#logoescola{
+    position:relative;
+    margin-left:60%;
+    margin-top:-11%;
+
+
+}
+#nomes{
+    margin-left:10%;
+
+}
+.textoprincipal{
+   color:#ffffff; 
+   text-align: center;
+   font-size:80px;
+   width:100%;
+   background-color:#16223a;
+   font-family:Aero;
+   margin-top:0px;  
+}
+
+.titulopadrao{
+   color:#66c859; 
+   text-align: center;
+   font-size:80px;
+   width:100%;
+   background-color:#ffffff;
+   font-family:Aero;
+   margin-top:30px;  
+ 
+}
+.conteudo{
+   color:#000000; 
+   text-align:center;
+   font-size:22px;
+   width:100%;
+   background-color:#ffffff;
+   font-family:Arial;
+   margin-top:10px;
+
+   
+}
+.tituloexemplos{
+   color:#e37f2a; 
+   text-align: center;
+   font-size:50px;
+   width:100%;
+   background-color:#ffffff;
+   font-family:Aero;
+   margin-top:20px;   
+}
+.imgconteudo{
+    color:#000000;
+    width:70%; 
+    text-align:left;
+    position:relative;
+    float:right;
+    font-size:25px;
+    padding:0px;
+    margin-top:20px;
+    font-family:Ariel
+}
+.textoprincipalexecicio{
+    color:#ffffff; 
+   text-align: center;
+   font-size:80px;
+   width:100%;
+   background-color:#16223a;
+   font-family:Aero;
+   margin-top:0px;  
+}
+
+.exerciciodiv{
+   color:#E37F2A;
+   width: 33.3%;
+   height:400px; 
+   text-align:center;
+   position:relative;
+   float: left;
+   font-size:200%;
+   background-color:#ffffff;
+   padding:0px;
+   margin-top:20px;
+   font-family:Aero;
+ 
+}
+
+#imgtre{
+    border-radius:3%;
+}
+.textotre{
+    color:#808080;
+    text-align:center;
+    font-family:Aero;
+    font-size:25px;
+
+}
+
